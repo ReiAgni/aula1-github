@@ -8,7 +8,8 @@ import util.CurrencyCoverter;
 public class Program {
 
 	public static void main(String[] args) {
-
+		
+		//alteracao para subir no git
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		CurrencyCoverter conv = new CurrencyCoverter();
